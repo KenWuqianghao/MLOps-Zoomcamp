@@ -1,2 +1,2 @@
 # MLOps-Zoomcamp
-Repo for code and homeworks from MLOps Zoomcamp
+Code and homework written for the MLOps Zoomcamp.
